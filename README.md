@@ -19,6 +19,9 @@ Centinela/
 ├── centinela.ino          Programa del Arduino
 └── README.md
 ```
+Video
+
+Ver la demostración en YouTube
 
 ## Estados
 
